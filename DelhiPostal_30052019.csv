@@ -1,0 +1,561 @@
+CircleName,RegionName,DivisionName,OfficeName,Pincode,OfficeType,Delivery,District,StateName
+Delhi Circle,NA,Delhi East Division,Anand Vihar SO,110092,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Azad Nagar SO East Delhi,110051,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Babarpur SO North East Delhi,110032,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Badarpur Khadar BO,110090,BO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Balbir Nagar SO,110032,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Bhajan Pura SO,110053,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Bhola Nath Nagar SO,110032,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Brahampuri SO,110053,SO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Chilla BO,110091,BO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Dayalpur BO,110094,BO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Dilshad Garden SO,110095,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Distt Court KKD SO,110032,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Gandhi Nagar Bazar SO,110031,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Gandhi Nagar SO East Delhi,110031,SO,Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Garhi Mandu BO,110053,BO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Geeta Colony SO,110031,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Ghazipur BO,110096,BO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Gokal Puri SO,110094,SO,Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Goverdhan Bihari Colony SO,110032,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Govind Pura SO,110051,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,GTB Hospital SO,110095,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Harsh Vihar SO,110093,SO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Himmatpuri SO,110091,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Housing Complex Loni Road SO,110093,SO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,IP Extension SO,110092,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Jafrabad SO East Delhi,110053,SO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Jagjit Nagar SO,110053,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Jhilmil HO,110095,HO,Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Jhilmil Tahirpur BO,110095,BO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Johripur BO,110094,BO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Kailash Nagar SO,110031,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Kalyanpuri SO,110091,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Kalyanvas SO,110091,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Karawal Nagar SO,110090,SO,Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Khajoori Khas BO,110090,BO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Krishna Nagar HO,110051,HO,Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Laxmi Nagar Extension SO,110092,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Laxmi Nagar SO East Delhi,110092,SO,Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Loni Road SO,110032,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Man Sarovar Park SO,110032,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Mandawali Fazalpur SO,110092,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Mandoli Saboli BO,110093,BO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Maujpur SO,110053,SO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Mayur Vihar PhI SO,110091,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Mayur Vihar PhIII SO,110096,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Nand Nagri A SO,110093,SO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Nand Nagri C SO,110093,SO,Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,New Seemapuri SO,110095,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,New Usmanpur BO,110053,BO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Nirman Vihar SO,110092,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Old Seemapuri SO,110095,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Patparganj SO,110091,SO,Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Raghubar Pura SO,110031,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Rajgarh Colony SO,110031,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Ram Nagar SO East Delhi,110051,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Rohtash Nagar SO,110032,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Sabhapur BO,110090,BO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Seelampur SO,110053,SO,Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Shahdara Mandi SO,110032,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Shahdara SO,110032,SO,Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Shaheed Bhagat Singh Colony SO,110090,SO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Shakarpur SO,110092,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Shastri Nagar SO East Delhi,110031,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Shivaji Park SO East Delhi,110032,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Shriram Colony Rajeev Nagar SO,110090,SO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Sonia Vihar SO,110090,SO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Sunder Nagari SO,110093,SO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Surajmal Vihar SO,110092,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Telewara SO,110032,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Trilok Puri SO,110091,SO,Non Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Vasundhra Enclave SO,110096,SO,Delivery,EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Vishwakarma Nagar SO,110095,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Vishwas Nagar SO,110032,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Vivek Vihar SO,110095,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi East Division,Yamuna Vihar SO,110053,SO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi East Division,Yozna Vihar SO,110092,SO,Non Delivery,SHAHDARA,Delhi
+Delhi Circle,NA,Delhi GPO Division,Delhi GPO,110006,HO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Adrash Nagar SO,110033,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Alipur SO,110036,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Anandvas Shakurpur SO,110034,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Aruna Nagar SO,110054,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Ashok Vihar HO,110052,HO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Auchandi BO,110039,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Avantika SO,110085,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Badli SO North West Delhi,110042,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Bakhtawar Pur BO,110036,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Bakoli BO,110036,BO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Bankner BO,110040,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Baratooti SO,110006,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Barwala BO,110039,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Bawana SO,110039,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Begumpur BO,110086,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Bhalaswa BO,110033,BO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Bhorgarh BO,110040,BO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Budh Vihar BO,110086,BO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Burari SO,110084,SO,Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,C4 Keshav Puram SO North West Delhi,110035,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Chand Pur BO,110081,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Chandni Chowk SO,110006,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Chawri Bazar SO,110006,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Civil Lines SO North Delhi,110054,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Dareeba SO,110006,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Delhi Engg College SO,110042,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Delhi Sadar Bazar SO,110006,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Delhi University SO,110007,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,District Courts SO North Delhi,110054,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,DrMukerjee Nagar SO,110009,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,G T B Nagar extension SO,110009,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Ganeshpura SO,110035,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Gheora BO,110081,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Ghoga BO,110039,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,GTB Nagar SO,110009,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Gujranwala Colony SO,110009,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Gulabi Bagh SO,110007,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,H S School,110081,BO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Haiderpur SO,110088,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Hareveli BO,110039,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Hiranki BO,110036,BO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Holambi Kalan BO,110082,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,HSSangh SO,110009,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,INDERLOK SO,110035,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Jagatpur BO,110084,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Jahangir Puri A Block SO,110033,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Jahangir Puri D Block SO,110033,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Jahangir Puri H Block SO,110033,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Jat Khore BO,110039,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Jaunti BO,110081,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Jawahar Nagar SO North Delhi,110007,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Jharoda Majraa BO,110084,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Kadipur BO,110036,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Kamla Nagar SO North Delhi,110007,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Kanjhawla SO,110081,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Kanya Gurukul BO,110040,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Karala BO,110081,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Katewara BO,110039,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Keshavpuram SO,110035,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Khampur BO,110036,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Khera Kalan SO,110082,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Khera Khurd BO,110082,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,KIRARI SULEMAN NAGAR SO,110086,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Lad Pur BO,110081,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Lampur BO,110040,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Majra Dabas BO,110081,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Malka Ganj SO,110007,SO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Mangolpuri A Block SO,110083,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Mangolpuri I  Block SO,110083,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Mangolpuri N Block SO,110083,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Mangolpuri S Block SO,110083,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Maurya Enclave SO,110034,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Model Town II SO,110009,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Model Town III SO,110009,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Mubarak Pur Dabas BO,110081,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Mukhmelpur BO,110036,BO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Mukundpur Village,110042,BO,Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Mungeshpur BO,110039,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Nangal Poona BO,110036,BO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Nangal Thakran BO,110039,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Narela SO,110040,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,NARELA TOWN,110040,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Nathupura Village SO,110084,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Naya Bans BO,110082,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,NEW Nathupura,110084,BO,Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Nimri SO,110052,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Nirankari Colony SO,110009,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Nizampur BO,110081,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,NSMandi SO,110033,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Padam Nagar SO North Delhi,110007,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Palla BO,110036,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Patrachar Vidyalay SO,110054,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Pehlad Pur BO,110042,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Pooth Kalan BO,110086,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Pooth Kalan Resettlement SO,110086,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Pooth Khurd BO,110039,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Power House SO,110035,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Prashant Vihar SO,110085,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Prem Nagar BO,110086,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Punjab Khor BO,110081,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Qutabagarh BO,110039,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Rampura BO,110035,BO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Rana Pratap Bagh SO,110007,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Rani Bagh SO,110034,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Rani Khera BO,110081,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,RCAO SO,110007,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Rithala BO,110085,BO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Rohini Courts SO,110085,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Rohini sec11 SO,110085,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Rohini Sector 15 extension So,110089,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Rohini Sector 15 SO,110089,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Rohini Sector 16 PO,110085,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,ROHINI SECTOR 23 SO,110099,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Rohini Sector 5 SO,110085,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Rohini Sector7 SO,110085,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Roop Nagar SO,110007,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Roshan Ara Road SO,110007,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Samai Pur SO,110042,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Sant Nagar SO,110084,SO,Non Delivery,NORTH EAST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Sarai Rohilla SO,110035,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Saraswati Vihar SO,110034,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Satyawati Nagar SO,110052,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Shakti Nagar SO North Delhi,110007,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Shakur Basti Depot SO,110056,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Shakur Pur I  Block SO,110034,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Shakurbasti Rs SO,110034,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Shalamar BO,110088,BO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Shalimar Bagh SO North West Delhi,110088,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Shastri Nagar SO North West Delhi,110052,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Singhu BO,110040,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Siraspur BO,110042,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Sri Nagar Colony SO,110034,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Sultanpuri B Block SO,110086,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Sultanpuri C Block SO,110086,SO,Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Sultanpuri F Block SO,110086,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Tikri Khurd BO,110040,BO,Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Timarpur SO,110054,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Wazir Pur III SO,110052,SO,Non Delivery,NORTH WEST DELHI,Delhi
+Delhi Circle,NA,Delhi North Division,Wazirabad Village SO,110084,SO,Non Delivery,NORTH DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,AGCR EXTENSION COUNTER,110002,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,AGCR SO,110002,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Ajmeri Gate Extn SO,110002,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,AKMarket SO,110055,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Anand Parbat Indl Area SO,110005,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Anand Parbat SO,110005,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Bank Street SO Central Delhi,110005,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Baroda House SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Bengali Market SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Bhagat Singh Market SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,CAT EXTENSION COUNTER,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Civic Centre PO,110002,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Connaught Place SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Dada Ghosh Bhawan SO,110008,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Darya Ganj SO,110002,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Delhi High Court Extension Counter SO,110003,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Delhi High Court SO,110003,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Desh Bandhu Gupta Road SO,110005,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Election Commission SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Gandhi Smarak Nidhi SO,110002,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Guru Gobind Singh Marg SO,110005,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Hauz Qazi SO,110006,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,IARI SO,110012,SO,Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Inderpuri SO,110012,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Indraprastha HO,110002,HO,Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,IPEstate SO,110002,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Jama Masjid SO,110006,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Janpath SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Karol Bagh SO,110005,SO,Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Krishi Bhawan SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Lady Harding Medical College SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Master Prithvi Nath Marg SO,110005,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Minto Road SO,110002,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Multani Dhanda SO,110055,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,National Physical Laboratory SO,110012,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,NGT EXTENSION COUNTER,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Nirman Bhawan SO,110011,SO,Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,North Avenue SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Pahar Ganj SO,110055,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Pandara Road SO,110003,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Parliament House SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Patel Nagar East SO,110008,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Patel Nagar SO Central Delhi,110008,SO,Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Patel Nagar South SO,110008,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Patel Nagar West SO,110008,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Patiala House SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Pragati Maidan SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Rail Bhawan SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Rajender Nagar SO,110060,SO,Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Rashtrapati Bhawan SO,110004,SO,Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Rouse Avenue Extension Counter SO,110002,SO,Non Delivery,New Delhi,Delhi
+Delhi Circle,NA,New Delhi Central Division,Sansad Marg HO,110001,HO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Sansadiya Soudh SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Sat Nagar SO,110005,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Secretariat North SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Shastri Bhawan SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,South Avenue SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,SRT NAGAR EXTENSION COUNTER,110055,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Supreme Court SO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Swami Ram Tirth Nagar SO,110055,SO,Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Udyog Bhawan SO,110011,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi Central Division,Union Public Service Commission SO,110069,SO,Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi GPO Division,New Delhi GPO,110001,HO,Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi GPO Division,RML EXTN COUNTER NDHO,110001,SO,Non Delivery,CENTRAL DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Abul Fazal EnclaveI SO,110025,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Air Force Station Tugalkabad SO,110080,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Alaknanda SO,110019,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Ali BO,110076,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Aliganj SO South Delhi,110003,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Amar Colony SO,110024,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Andrewsganj SO,110049,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Badarpur SO South Delhi,110044,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,BSF Camp Tigri SO,110080,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,BTPS SO South Delhi,110044,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,C G O Complex SO,110003,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,C R R I SO South Delhi,110020,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Chittranjan Park SO,110019,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Dakshinpuri PhaseI SO,110062,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Dakshinpuri PhaseII SO,110062,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Dakshinpuri PhaseIII SO,110062,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Dargah Sharif SO,110013,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Defence Colony SO South Delhi,110024,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Deoli BO,110080,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Distt Court Complex Saket SO,110017,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Dr Ambedkar Nagar SO South Delhi,110062,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,East Of Kailash PhaseI SO,110065,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,East Of Kailash SO,110065,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,F F C Okhla SO,110020,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Gautam Nagar SO,110049,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Golf Links SO,110003,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Greater Kailash SO,110048,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Gulmohar Park SO,110049,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Hamdard Nagar SO,110062,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Hari Nagar Ashram SO,110014,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Hazrat Nizamuddin SO,110013,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Jaitpur BO,110044,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Jaitpur SO South Delhi,110044,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Jamia Nagar SO,110025,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Jeevan Nagar BO,110014,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Jungpura SO,110014,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Kailash Colony SO,110048,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Kalkaji HO,110019,HO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Kasturba Nagar SO South Delhi,110003,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Khanpur SO South Delhi,110080,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Krishna Market SO,110024,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Lajpat Nagar South Delhi SO,110024,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Lal Kuan BO,110044,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Lodi Road HO,110003,HO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Madanpur Khadar BO,110076,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Malviya Nagar SO South Delhi,110017,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Masjid Moth SO,110048,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Meethapur SO,110044,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,MMTCSTC Colony SO,110017,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Molarband BO,110044,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Nehru Nagar SO South Delhi,110065,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Nehru Place SO,110019,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,New Delhi South ExtII SO,110049,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,New Friends Colony SO,110025,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Okhla Industrial Area Phasei SO,110020,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Okhla Industrial Estate SO,110020,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Panchsheel Enclave SO,110017,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Pragati Vihar SO,110003,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Pratap Market SO,110014,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Pul Pahladpur BO,110044,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Pushp Vihar SO,110017,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Pushpa Bhawan SO,110062,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Sadiq Nagar SO,110049,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Safdarjung Air Port SO,110003,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Sahpurjat BO,110049,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Saket SO South Delhi,110017,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Sangam Vihar SO,110080,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Sant Nagar SO South Delhi,110065,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Sarita Vihar SO,110076,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Sarvodya Enclave SO,110017,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,South Malviya Nagar SO,110017,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Sriniwaspuri SO,110065,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Sukhdev Vihar SO,110025,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Talimabad SO,110080,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Tehkhand BO,110020,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Tugalkabad Railway Colony SO,110044,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Village Tugalkabad BO,110044,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South Division,Zakir Nagar SO,110025,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,505 A B Workshop SO,110010,SO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,A F Palam SO,110010,SO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,A F Rajokari SO,110038,SO,Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Anand Niketan SO,110021,SO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Ansari Nagar SO,110029,SO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Aps Colony BO,110010,BO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Arjungarh SO,110047,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Aya Nagar BO,110047,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,BHATI VILLAGE BO,110074,BO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Bijwasan SO,110061,SO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Chanakya Puri SO,110021,SO,Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Chandanhoola BO,110074,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Chattarpur SO,110074,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,COD SO South West Delhi,110010,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,CSKM School BO,110074,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,CVD SO,110010,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Delhi Cantt SO,110010,SO,Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Dera BO,110074,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Dhaula Kuan SO,110010,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Fatehpur Beri BO,110074,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Gadaipur BO,110030,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Ghitorni BO,110030,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Green Park Market SO,110016,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Gurgaon Road SO,110037,SO,Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Hauz Khas Market SO,110016,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Hauz Khas SO,110016,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,IGI Airport SO,110037,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Ignou SO,110068,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,IT Hauz Khas SO,110016,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Jaunapur BO,110047,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,JNU New Campus SO,110067,SO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,JNU SO,110067,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Kapashera SO,110097,SO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Kidwai Nagar East SO,110023,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Kidwai Nagar West SO,110023,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Kirby Place SO,110010,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Lado Sarai BO,110030,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Laxmi Bai Nagar SO,110023,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Mahipalpur BO,110037,BO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Maidan Garhi BO,110068,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Malcha Marg SO,110021,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Mandi BO,110047,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Masood Pur BO,110070,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Mehrauli SO,110030,SO,Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Moti Bagh SO,110021,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Munirka SO,110067,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Nanak Pura SO,110021,SO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Nangal Dewat BO,110037,BO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Nauroji Nagar SO,110029,SO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Netaji Nagar SO South West Delhi,110023,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,NIE Campus SO,110016,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Palam Airport SO,110037,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Paryavaran Complex SO,110030,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Pinto Park SO,110010,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,R K Puram Main SO,110066,SO,Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,R K Puram Sect1 SO,110022,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,R K Puram Sect12 SO,110022,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,R K Puram Sect3 SO,110022,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,R K Puram Sect4 SO,110022,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,R K Puram Sect5 SO,110022,SO,Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,R K Puram Sect7 SO,110022,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,R K Puram Sect8 SO,110022,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,R K Puram Sector  6 Postal SB SO,110022,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,R K Puram West SO,110066,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,R R Hospital SO,110010,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Rajokari BO,110038,BO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Safdarjung Enclave SO,110029,SO,Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Sanjay Colony Bhati Mines BO,110074,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Sarojini Nagar HO,110023,HO,Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Satbari BO,110074,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Shahbad Mohammadpur BO,110061,BO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Signal Enclave SO,110010,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,South Delhi Campus SO,110021,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Station Road SO South West Delhi,110010,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Subroto Park SO,110010,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Sultanpur BO,110030,BO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,T B Hospital SO,110030,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Technology Bhawan SO,110016,SO,Non Delivery,SOUTH DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Vasant Kunj PktA SO,110070,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Vasant Kunj SO,110070,SO,Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Vasant Vihar1 SO,110057,SO,Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi South West Division,Vasant Vihar2 SO,110057,SO,Non Delivery,NEW DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Amberhai B.O,110075,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Arjun Park PO,110043,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Ashok Nagar S.O (West Delhi),110018,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Ashoka Park Extn. S.O,110026,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Badusarai B.O,110071,BO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Bagdola B.O,110077,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Bakkarwala B.O,110041,BO,Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Baprola B.O,110043,BO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Barthal B.O,110077,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Chand Nagar S.O,110018,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Chaukhandi B.O,110018,BO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Chhawla S.O,110071,SO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,CRPF Jharoda Kalan S.O,110072,SO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,D. K. Mohan Garden S.O,110059,SO,Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,D.E.S.U. Colony S.O,110058,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Dabri B.O,110045,BO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Daulatpur B.O,110043,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Dhansa S.O,110073,SO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Dhulsiras B.O,110077,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Dichaun Kalan B.O,110043,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Dindarpur B.O,110043,BO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,District Court Complex Dwarka S.O,110075,SO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Durga Park PO,110043,SO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Dwarka Sec 6 S.O,110075,SO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,ESI S.O,110015,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Fateh Nagar S.O,110018,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Galib Pur B.O,110073,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,GGSIP University S.O,110078,SO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Ghuman Hera B.O,110073,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Gopal Nagar SO,110043,SO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Hari Nagar BE Block S.O,110064,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Hari Nagar Dadb Block S.O,110064,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Hari Nagar S.O (West Delhi),110064,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Hastal Village B.O,110059,BO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Hirankudna B.O,110041,BO,Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Indira Park B.O,110045,BO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Issapur B.O,110073,BO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Jafarpur B.O,110073,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Jail Road S.O (West Delhi),110058,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Janakpuri A 3 S.O,110058,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Janakpuri B 1 S.O,110058,SO,Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Janakpuri C 4 S.O,110058,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Janta Market S.O,110027,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Jawala Heri B.O,110063,BO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Jeevan Park B.O,110059,BO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Jharoda Kalan B.O,110072,BO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Jhatikara B.O,110043,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Jwala Puri S.O,110087,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,K5 Extn. Mohan Garden,110059,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Kair B.O,110043,BO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Kakrola B.O,110078,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Kangan Heri B.O,110071,BO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Karam Pura S.O,110015,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Khaira B.O,110043,BO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Khera Dabur B.O,110073,BO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Khyala Phase    I S.O,110018,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Khyala Phase   II S.O,110018,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Kunwar Singh Nagar PO,110041,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,L. M. Nagar Indl. Area S.O,110015,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,M.B.S. Nagar S.O,110018,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Madipur Slum Quarter S.O,110063,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Madipur Village S.O,110063,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Mahabir Nagar S.O,110018,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Mahavir Enclave,110045,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Malik Pur B.O,110073,BO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Mansarover Garden S.O,110015,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Matiala B.O,110059,BO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Maya Puri S.O,110064,SO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Mayapuri Shopping Centre S.O,110064,SO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Mitraon B.O,110043,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Moti Nagar S.O,110015,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Mundela Kalan B.O,110073,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Mundka B.O,110041,BO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,N.S.I.T. Dwarka S.O,110078,SO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Najafgarh S.O,110043,SO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Nangal Raya S.O,110046,SO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Nangloi   II B.O,110041,BO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Nangloi   III S.O,110041,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Nangloi S.O,110041,SO,Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Naraina Industrial Estate H.O,110028,HO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Naraina Village S.O,110028,SO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Nasirpur B.O,110045,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Neelwal BO,110041,BO,Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Nilothi B.O,110041,BO,Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Palam Extn (Harijan Basti) S.O,110077,SO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Palam Village S.O,110045,SO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Pandwala Kalan B.O,110043,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Papravat B.O,110043,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Paschim Vihar B Block S.O,110063,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Paschim Vihar S.O,110063,SO,Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Peeragarhi B.O,110087,BO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Punjabi Bagh S.O,110026,SO,Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Punjabi Bagh Sec   III S.O,110026,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Quazipur B.O,110073,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Raj Nagar   II S.O,110077,SO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Rajouri Garden J 6 S.O,110027,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Rajouri Market S.O,110027,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Ramesh Nagar H.O,110015,HO,Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Ranhola B.O,110041,BO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Raota B.O,110073,BO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Rewla Khanpur B.O,110043,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Sagarpur S.O,110046,SO,Non Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Sanjay Enclave PO,110059,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Shivaji Park S.O (West Delhi),110026,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,SHYAM VIHAR S.O,110043,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Subhash Nagar S.O (West Delhi),110027,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Subhash Nagar West S.O,110027,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Sunder Vihar S.O,110087,SO,Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Surehra B.O,110043,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Tagore Garden S.O,110027,SO,Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Tikri Kalan B.O,110041,BO,Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Tilak Nagar East S.O,110018,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Tilak Nagar S.O (West Delhi),110018,SO,Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Tilangpur Kotla B.O,110043,BO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Ujwa S.O,110073,SO,Delivery,SOUTH WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Uttam Nagar S.O,110059,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Vikas Puri S.O,110018,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Vishnu Garden S.O,110018,SO,Non Delivery,WEST DELHI,Delhi
+Delhi Circle,NA,New Delhi West Division,Zakhira S.O,110015,SO,Non Delivery,WEST DELHI,Delhi
+Uttar Pradesh Circle,Gorakhpur Region,Basti Division,Mahthawal BO,272206,BO,Delivery,SIDDHARTHNAGAR,Delhi
